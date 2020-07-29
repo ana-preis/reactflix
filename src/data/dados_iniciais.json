@@ -1,183 +1,145 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
-      "link": "https://www.alura.com.br/formacao-front-end",
+      "titulo": "Música",
+      "link": "https://www.youtube.com/playlist?list=PLKgBV6PbTRwQfQ3t1ruuVc-lnAPJ51fxf",
       "cor": "#6BD1FF",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "Só as gringas",
+        "url": "https://www.youtube.com/playlist?list=PLKgBV6PbTRwQfQ3t1ruuVc-lnAPJ51fxf"
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "boy pablo - honey",
+          "url": "https://www.youtube.com/watch?v=8GQ3iqkwT3I&list=PLKgBV6PbTRwQfQ3t1ruuVc-lnAPJ51fxf&index=2"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "Still Woozy - Window",
+          "url": "https://www.youtube.com/watch?v=6Jye54M6wpg&list=PLKgBV6PbTRwQfQ3t1ruuVc-lnAPJ51fxf&index=2&t=0s"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "Men I Trust - Lauren (live at home)",
+          "url": "https://www.youtube.com/watch?v=uYoF46qMuU4&list=PLKgBV6PbTRwQfQ3t1ruuVc-lnAPJ51fxf&index=3"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "Still Woozy - Goodie Bag",
+          "url": "https://www.youtube.com/watch?v=zL3wWykAKfs&list=PLKgBV6PbTRwQfQ3t1ruuVc-lnAPJ51fxf&index=4"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "Clairo - Bags (Recorded Live for World Cafe)",
+          "url": "https://www.youtube.com/watch?v=Da3FBTjOwVM&list=PLKgBV6PbTRwQfQ3t1ruuVc-lnAPJ51fxf&index=5"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+          "titulo": "Robyn - Dancing On My Own",
+          "url": "https://www.youtube.com/watch?v=CcNo07Xp8aQ&list=PLKgBV6PbTRwQfQ3t1ruuVc-lnAPJ51fxf&index=6"
         },
         {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
-        },
-        {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "Frank Ocean - Godspeed",
+          "url": "https://www.youtube.com/watch?v=pv2yNGkNhZc&list=PLKgBV6PbTRwQfQ3t1ruuVc-lnAPJ51fxf&index=9"
         }        
       ]
     },
     {
-      "titulo": "Back End",
+      "titulo": "Músicas",
       "cor": "#00C86F",
       "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
+        "text": "Só que Br",
+        "url": "https://www.youtube.com/playlist?list=PLKgBV6PbTRwT_cWmWOk7ddnlEQSKrrhBG"
       },
       "videos": [
         {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+          "titulo": "Gilsons - Love Love",
+          "url": "https://www.youtube.com/watch?v=2EGXgmoYtgA&list=PLKgBV6PbTRwT_cWmWOk7ddnlEQSKrrhBG"
         },
         {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+          "titulo": "francisco, el hombre - Triste, Louca ou Má",
+          "url": "https://www.youtube.com/watch?v=lKmYTHgBNoE&list=PLKgBV6PbTRwT_cWmWOk7ddnlEQSKrrhBG&index=4"
         },
         {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+          "titulo": "Bryan Behr - Eu Te Amo",
+          "url": "https://www.youtube.com/watch?v=6MshQhJcZt0&list=PLKgBV6PbTRwT_cWmWOk7ddnlEQSKrrhBG&index=3"
         },
         {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+          "titulo": "Anunciação | Mariana Nolasco",
+          "url": "https://www.youtube.com/watch?v=eebLcRDgbBg&list=PLKgBV6PbTRwT_cWmWOk7ddnlEQSKrrhBG&index=5"
         }, 
         {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+          "titulo": "Gilsons - Várias Queixas",
+          "url": "https://www.youtube.com/watch?v=bBHPq3UQFsw&list=PLKgBV6PbTRwT_cWmWOk7ddnlEQSKrrhBG&index=2"
         }
       ]
     },
     {
-      "titulo": "Data Science e Inteligência Artificial",
+      "titulo": "The Office",
       "cor": "#9cd33b",
       "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
+        "text": "Melhores momentos",
+        "url": "https://www.youtube.com/playlist?list=PLKgBV6PbTRwQ1QAyYo9198cnxK6jUjSwO"
       },
       "videos": [
         {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "titulo": "First Aid Fail - The Office US",
+          "url": "https://www.youtube.com/watch?v=Vmb1tqYqyII&list=PLKgBV6PbTRwQ1QAyYo9198cnxK6jUjSwO&index=7"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          "titulo": "Fire Drill - O Escritório",
+          "url": "https://www.youtube.com/watch?v=gO8N3L_aERg&list=PLKgBV6PbTRwQ1QAyYo9198cnxK6jUjSwO&index=5"
         },
         {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+          "titulo": "Michael Has Herpes - The Office US",
+          "url": "https://www.youtube.com/watch?v=-_KIMS0SOZw&list=PLKgBV6PbTRwQ1QAyYo9198cnxK6jUjSwO&index=3"
         },
         {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          "titulo": "The Office: Toby touches Pam's leg",
+          "url": "https://www.youtube.com/watch?v=hxsMm7X2th0&list=PLKgBV6PbTRwQ1QAyYo9198cnxK6jUjSwO&index=6"
         }
       ]
     },
     {
-      "titulo": "Filmes",
+      "titulo": "Para Relaxar",
       "cor": "orange",
       "videos": [
         {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+          "titulo": "Arcade Fire - Song on the Beach",
+          "url": "https://www.youtube.com/watch?v=38rGxcPibn8&list=PLKgBV6PbTRwR_YVHy06S8dJ-7i94bUx39&index=2"
         },
         {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+          "titulo": "midnight aura. [lofi / jazzhop / chill mix]",
+          "url": "https://www.youtube.com/watch?v=tgI6PjEq0O8&list=PLKgBV6PbTRwR_YVHy06S8dJ-7i94bUx39&index=5"
         },
         {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+          "titulo": "Hans Zimmer - Interstellar Theme",
+          "url": "https://www.youtube.com/watch?v=6xr9JHyBuIY&list=PLKgBV6PbTRwR_YVHy06S8dJ-7i94bUx39&index=3"
         },
         {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+          "titulo": "Einaudi - Experience",
+          "url": "https://www.youtube.com/watch?v=kjlu9RRHcbE&list=PLKgBV6PbTRwR_YVHy06S8dJ-7i94bUx39&index=1"
         }
       ]
     },
     {
-      "titulo": "Games",
+      "titulo": "Aleatórios",
       "cor": "red",
       "link_extra": {
-        "text": "Formação de Jogos na Alura",
-        "url": "https://www.alura.com.br/formacao-jogos-unity"
+        "text": "Para risadinhas",
+        "url": "https://www.youtube.com/playlist?list=PLKgBV6PbTRwT9554RrC71pW5cAt2gWu3j"
       },
       "videos": [
         {
-          "titulo": "Final Fantasy 7",
-          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+          "titulo": "vines i quote on the daily",
+          "url": "https://www.youtube.com/watch?v=w_3eszFuNtw&list=PLKgBV6PbTRwT9554RrC71pW5cAt2gWu3j&index=4"
         },
         {
-          "titulo": "Assassins Creed Valhalla",
-          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+          "titulo": "Emma Watson Plays With Kittens (While Answering Fan Questions)",
+          "url": "https://www.youtube.com/watch?v=DEFD9TSHg_A&list=PLKgBV6PbTRwT9554RrC71pW5cAt2gWu3j&index=2&t=5s"
         },
         {
-          "titulo": "God of War 4",
-          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+          "titulo": "classic and rare vines to watch when you lose your will to live",
+          "url": "https://www.youtube.com/watch?v=lf6DM3VuwOE&list=PLKgBV6PbTRwT9554RrC71pW5cAt2gWu3j&index=3"
         },
         {
-          "titulo": "Resident Evil 8",
-          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
-        },
-        {
-          "titulo": "Pokémon Let's Go Pikachu/Eevee",
-          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
-        }
-      ]
-    },
-    {
-      "titulo": "Aprendendo a aprender tecnologia",
-      "cor": "#6b5be2",
-      "link_extra": {
-        "text": "Curso sobre aprendizado na Alura",
-        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
-      },
-      "videos": [
-        {
-          "titulo": "Como estudar melhor?",
-          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
-        },
-        {
-          "titulo": "Faculdade",
-          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
-        },
-        {
-          "titulo": "Frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
-        },
-        {
-          "titulo": "A mágica do Aprendizado",
-          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
-        },
-        {
-          "titulo": "Como aprender a programar?",
-          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+          "titulo": "iconic vines that cured my anxiety",
+          "url": "https://www.youtube.com/watch?v=hdWe-yoh978&list=PLKgBV6PbTRwT9554RrC71pW5cAt2gWu3j&index=5"
         }
       ]
     }

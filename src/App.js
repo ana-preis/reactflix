@@ -36,7 +36,6 @@ function App() {
       <Carousel
       category={dadosIniciais.categorias[4]}
       />
-
     </div>
   );
 }
