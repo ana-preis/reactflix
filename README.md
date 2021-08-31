@@ -1,3 +1,30 @@
+## Sobre o Projeto
+
+Aplicação feita em React inspirada no serviço de streaming Netflix. Construído durante a semana de Imersão React promovida pela Alura. Se tratando essa da versão Web do projeto.
+
+## Tecnologias
+
+As seguintes ferramentas foram usadas na construção do projeto:
+
+- **[React](https://pt-br.reactjs.org/)**
+- **[JavaScript](https://www.javascript.com/)**
+- **[TypeScript](https://www.typescriptlang.org/)**
+- **[Styled Components](https://styled-components.com/)**
+- **[React Router Dom](https://reactrouter.com/)**
+- **[React Slick](https://react-slick.neostack.com/)**
+- **[Json Server](https://github.com/typicode/json-server/)**
+- **[Concurrently](https://github.com/kimmobrunfeldt/concurrently)**
+- **[i18next](https://www.i18next.com/)**
+- **[React i18next](https://www.i18next.com/)**
+
+\* Veja o arquivo <kbd>[package.json](./package.json)</kbd>
+
+<!-- LICENSE -->
+
+## Licença
+
+Distribuído sob a licença MIT. Veja [`LICENSE`](./LICENSE) para mais informações.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
